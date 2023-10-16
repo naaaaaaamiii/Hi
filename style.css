@@ -6,6 +6,23 @@
 
 .header{
   height: 100px;
-  width: auto;
-  background-color: #9400d3;
+  width: 100%;
+  background-color: #ffc0cb;
+}
+
+.main{
+  height: 1500px;
+  background-color: #fff0f5;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list{
+  margin: 50px;
+  list-style: none;
+  display : inline-block;
+}
+
+.footer{
+  height: 50px;
 }
