@@ -20,11 +20,17 @@
 .nav-list{
   margin: 50px;
   list-style: none;
-  display : inline-block;
+  display: inline-block;
 }
 
 a{
   text-decoration: none;
+}
+
+.introduce-img{
+  height: 700px;
+  width: 500px;
+  border: double 10px #000;
 }
 
 .footer{
