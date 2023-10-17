@@ -10,7 +10,22 @@
   background-color: #ffff00;
 }
 
+.main{
+  display: flex;
+}
+
+.profile-all{
+  justify-content: center;
+}
+
+.dotto{
+  position : relative;
+  color    : #C69436;
+  font-size: 16px;
+}
+
 .introduce-img{
   height: 500px;
-  weight: 300px
+  weight: 300px;
+  margin: 50px;
 }
