@@ -5,9 +5,9 @@
 }
 
 .header{
-  height: 100px;
+  height: 50px;
   width: 100%;
-  background-color: #ffc0cb;
+  background-color: #ffff00;
 }
 
 .main{
@@ -18,7 +18,7 @@
 }
 
 .nav-list{
-  margin: 50px;
+  margin: 30px;
   list-style: none;
   display: inline-block;
 }
@@ -35,13 +35,14 @@ li{
   text-align: center;
   font-size: 50px;
   font-weight: bold;
+  margin: 50px;
 }
 
 .main-text1{
   writing-mode: vertical-rl;
   font-size: 30px;
   font-weight: bolder;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .main-text2{
