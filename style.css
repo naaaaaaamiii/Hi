@@ -27,6 +27,23 @@ a{
   text-decoration: none;
 }
 
+li{
+  list-style: none;
+}
+
+.main-title{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.main-text{
+  writing-mode: vertical-rl;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 50px;
+}
+
 .introduce-img{
   height: 700px;
   width: 500px;
