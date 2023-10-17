@@ -11,7 +11,7 @@
 }
 
 .main{
-  height: 1500px;
+  height: 1000px;
   background-color: #fff0f5;
   display: flex;
   justify-content: center;
@@ -37,11 +37,24 @@ li{
   font-weight: bold;
 }
 
-.main-text{
+.main-text1{
   writing-mode: vertical-rl;
   font-size: 30px;
   font-weight: bolder;
   margin-top: 50px;
+}
+
+.main-text2{
+  writing-mode: vertical-rl;
+  font-size: 30px;
+  font-weight: bolder;
+  transform: rotate(-180deg );
+  margin-bottom: 250px;
+}
+
+.main-text3{
+  font-size: 25px;
+  font-weight: bolder;
 }
 
 .introduce-img{
