@@ -10,12 +10,13 @@
   background-color: #ffff00;
 }
 
-.main{
+.top{
   height: 1000px;
-  background-color: #fff0f5;
   display: flex;
   justify-content: center;
+  background-color: #fff0f5;
 }
+
 
 .nav-list{
   margin: 30px;
@@ -62,6 +63,12 @@ li{
   height: 700px;
   width: 500px;
   border: double 10px #000;
+}
+
+.work{
+  height: 300px;
+  width: 400px;
+  border: solid 2px #000;
 }
 
 .footer{
