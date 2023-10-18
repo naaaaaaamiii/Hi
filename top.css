@@ -72,11 +72,16 @@ li{
   font-family: Impact;
 }
 
+.bottom{
+ display: flex;
+ justify-content: center;
+}
+
 span{
   background:linear-gradient(transparent 60%, #ffff00 60%);
 }
 
-.work{
+.img{
   height: 300px;
   width: 400px;
   border: solid 2px #000;
