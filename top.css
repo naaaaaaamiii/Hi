@@ -81,11 +81,21 @@ span{
   background:linear-gradient(transparent 60%, #ffff00 60%);
 }
 
-.img{
+.work-img{
   height: 300px;
   width: 400px;
   border: solid 2px #000;
   margin: 0 30px;
+}
+
+.skill{
+  margin: 30px;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+  margin: 0 20px;
 }
 
 .footer{
