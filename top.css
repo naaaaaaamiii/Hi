@@ -94,7 +94,7 @@ span{
 
 .work-img:hover{
   transform:scale(1.2,1.2);
-  transition:1s all;
+  transition:0.8s all;
 }
 
 .skill{
@@ -129,9 +129,28 @@ img{
   margin: 30px 80px;
 }
 
-.output-img{
-  width: 50%;
+.output{
+  display: flex;
+  justify-content: center;
+}
+
+.circle-1,
+.circle-2{
+  color: #fff;
+  padding: 5%;
+  width: 300px;
   height: 300px;
+  margin: 0 -15px;
+  mix-blend-mode: multiply;
+}
+
+.circle-1 {
+  background: #ffff00;
+  border-radius: 50% 50% 50% 70%/50% 50% 70% 60%;
+}
+.circle-2 {
+  background: #ffb6c1;
+  border-radius: 80% 30% 50% 50%/50%;
 }
 
 .footer{
