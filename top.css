@@ -107,6 +107,7 @@ span{
 .skill-name{
   color: #808080;
   font-size: 25px;
+  padding: 10px;
 }
 
 .card-item{
@@ -136,9 +137,7 @@ img{
 
 .circle-1,
 .circle-2{
-  color: #fff;
-  padding: 5%;
-  width: 300px;
+  width: 500px;
   height: 300px;
   margin: 0 -15px;
   mix-blend-mode: multiply;
@@ -146,11 +145,16 @@ img{
 
 .circle-1 {
   background: #ffff00;
-  border-radius: 50% 50% 50% 70%/50% 50% 70% 60%;
+  border-radius: 100% 60% 50% 30%/40% 50% 100% 100%;
 }
 .circle-2 {
-  background: #ffb6c1;
+  background: #ffc0cb;
   border-radius: 80% 30% 50% 50%/50%;
+}
+
+.output{
+  color: #191970;
+  text-align: center;
 }
 
 .footer{
