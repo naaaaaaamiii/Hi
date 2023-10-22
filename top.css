@@ -150,11 +150,16 @@ img{
 .circle-2 {
   background: #ffc0cb;
   border-radius: 80% 30% 50% 50%/50%;
+  margin-top: 30px;
 }
 
 .output{
   color: #191970;
   text-align: center;
+}
+
+.output2{
+  margin-top: 50px;
 }
 
 .footer{
