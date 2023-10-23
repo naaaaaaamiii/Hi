@@ -19,20 +19,19 @@
 
 
 .nav-list{
-  margin: 0 30px;
+  margin: 10px 30px;
   list-style: none;
   display: inline-block;
   font-family: Impact;
   font-size: 25px;
-  color: #000000;
 }
 
-a{
+.nav-list a{
   text-decoration: none;
   position: relative;
 }
 
-a::after {
+.nav-list a::after {
 position: absolute;
 left: 0;
 content: '';
@@ -45,7 +44,7 @@ transform-origin: left top;
 transition: transform 0.5s; 
 }
 
-a:hover::after {
+.nav-list a:hover::after {
 transform: scale(1, 1);   
 }
 
