@@ -10,7 +10,7 @@
   background-color: #ffff00;
 }
 
-.main{
+.top{
   display: flex;
 }
 
@@ -50,5 +50,9 @@
 .introduce-img{
   height: 500px;
   weight: 300px;
+  margin: 50px;
+}
+
+.hobby{
   margin: 50px;
 }
