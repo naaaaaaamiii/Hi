@@ -78,7 +78,8 @@ li{
 
 .work{
  display: flex;
- justify-content: center;
+ justify-content: space-between;
+ flex-wrap: wrap;
 }
 
 span{
@@ -88,7 +89,7 @@ span{
 .work-img{
   height: 300px;
   width: 400px;
-  margin: 0 30px;
+  margin: 30px 30px;
   overflow:hidden;
 }
 
