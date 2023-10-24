@@ -85,7 +85,9 @@ li{
   height: 700px;
   width: 500px;
   border: double 10px #000;
+  cursor : url(WHO.jpg),auto;
 }
+
 
 .title{
   padding: 30px;
@@ -93,7 +95,13 @@ li{
   font-family: Impact;
 }
 
- #works{
+#works{
+  padding: 30px;
+  text-aligin: center;
+  font-family: Impact;
+}
+
+#output{
   padding: 30px;
   text-aligin: center;
   font-family: Impact;
