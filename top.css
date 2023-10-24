@@ -29,6 +29,7 @@
 .nav-list a{
   text-decoration: none;
   position: relative;
+  color: #000000;
 }
 
 .nav-list a::after {
