@@ -60,7 +60,7 @@
 
 .hobby{
   margin: 50px;
-  padding: 50px 200px;
+  padding: 50px 100px;
   display: flex;
   
 }
@@ -90,6 +90,18 @@
     font-size: 4.5em;
     padding: 10px 0;
     font-family:"Georgia";
+}
+
+.hobby .card .circle h3  {
+    color: #fff;
+    font-size: 50px;
+    padding: 10px 0;
+    font-family:"Georgia";
+}
+
+a{
+  text-decoration: none;
+  color: #000;
 }
 
 .content {
