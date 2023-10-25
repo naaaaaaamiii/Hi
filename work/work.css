@@ -5,7 +5,8 @@
 }
 
 .main{
- 
+  margin: 50px;
+  display: flex;
 }
 
 .header{
@@ -15,8 +16,14 @@
 }
   
 .work{
-  height: 300px;
-  width: 400px;
+  height: 600px;
+  width: 600px;
+  border: solid 1px #000;
+}
+
+.left{
+  width: 40%;
+  height: auto;
 }
 
 .text{
